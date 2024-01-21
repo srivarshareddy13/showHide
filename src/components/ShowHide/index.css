@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+}
+.container {
+  display: flex;
+}
+.name-container {
+  display: flex;
+}
